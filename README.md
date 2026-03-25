@@ -1,4 +1,4 @@
-# 🚀 MATANA Platform — System Overview
+# 🚀 MATANA Platform - System Overview
 
 MATANA is a full-stack Employee Experience platform that I designed and developed end-to-end, including a web dashboard, mobile application, and backend infrastructure.
 
@@ -87,13 +87,13 @@ The platform enables organizations to manage employee engagement, benefits, even
 ## 📸 Screenshots
 
 ### Dashboard Overview
-![Dashboard](./MATANA Dashboard Overview.png)
+![Dashboard](https://raw.githubusercontent.com/MatanaAppOmer/matana-platform-overview/main/MATANA%20Dashboard%20Overview.png)
 
 ### Budget Management
-![Budget](./MATANA Dashboard Budget.png)
+![Budget](https://raw.githubusercontent.com/MatanaAppOmer/matana-platform-overview/main/MATANA%20Dashboard%20Budget.png)
 
 ### Gifts Management
-![Gifts](./MATANA Dashboard Gifts.png)
+![Gifts](https://raw.githubusercontent.com/MatanaAppOmer/matana-platform-overview/main/MATANA%20Dashboard%20Gifts.png)
 
 ---
 
