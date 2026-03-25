@@ -86,29 +86,17 @@ The platform enables organizations to manage employee engagement, benefits, even
 
 ## 📸 Screenshots
 
-### 🖥 Dashboard
+### Dashboard Overview
+![Dashboard](https://raw.githubusercontent.com/MatanaAppOmer/matana-platform-overview/main/MATANA%20Dashboard%20Overview.png)
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/MatanaAppOmer/matana-platform-overview/main/MATANA%20Dashboard%20Overview.png" width="800"/>
-</p>
+### Budget Management
+![Budget](https://raw.githubusercontent.com/MatanaAppOmer/matana-platform-overview/main/MATANA%20Dashboard%20Budget.png)
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/MatanaAppOmer/matana-platform-overview/main/MATANA%20Dashboard%20Budget.png" width="800"/>
-</p>
+### Gifts Management
+![Gifts](https://raw.githubusercontent.com/MatanaAppOmer/matana-platform-overview/main/MATANA%20Dashboard%20Gifts.png)
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/MatanaAppOmer/matana-platform-overview/main/MATANA%20Dashboard%20Gifts.png" width="800"/>
-</p>
-
----
-
-### 📱 Mobile App
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/MatanaAppOmer/matana-platform-overview/main/MATANA%20Employee%20App%20Home.jpeg" width="300"/>
-</p>
-
----
+### Employee Mobile App
+<img src="https://raw.githubusercontent.com/MatanaAppOmer/matana-platform-overview/main/MATANA%20Employee%20App%20Home.jpeg" width="300"/>
 
 ## 🔒 Note
 
