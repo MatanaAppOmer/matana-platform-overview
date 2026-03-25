@@ -4,15 +4,24 @@ MATANA is a full-stack Employee Experience platform designed to help organizatio
 
 The platform consists of a web dashboard for HR teams and a mobile application for employees, connected through a scalable backend architecture.
 
+🎯 Product Highlights
+
+- Full employee experience management platform for organizations  
+- Real-time budget tracking and analytics  
+- Gifting system with usage tracking and history  
+- Events management with RSVP capabilities  
+- Perks marketplace for employee benefits  
+- Clean and scalable dashboard UI  
+
 Architecture:
 
 The system is built as a modern full-stack application:
 
-Dashboard (Web): Next.js, React
-Mobile App: React Native (Expo)
-Backend API: Node.js (NestJS)
-Database: PostgreSQL / Firebase
-Architecture: REST API-based communication between services
+- **Dashboard (Web):** Next.js, React  
+- **Mobile App:** React Native (Expo)  
+- **Backend API:** Node.js (NestJS)  
+- **Database:** PostgreSQL / Firebase  
+- **Communication:** REST API  
 
 Core Features:
 
