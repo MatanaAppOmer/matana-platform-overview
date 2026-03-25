@@ -1,4 +1,4 @@
-# 🚀 MATANA Platform - System Overview
+# MATANA Platform - System Overview
 
 MATANA is a full-stack Employee Experience platform that I designed and developed end-to-end, including a web dashboard, mobile application, and backend infrastructure.
 
@@ -30,30 +30,30 @@ The platform enables organizations to manage employee engagement, benefits, even
 
 ## ⚙️ Core Features
 
-### 🔐 Authentication
+### Authentication
 - Secure login using SSO and OTP-based flows  
 - Organization-based access control  
 
-### 🎁 Gifting System
+### Gifting System
 - Create and manage digital and physical gifts  
 - Track gift distribution and usage  
 - Maintain full gift history per employee  
 
-### 🎟 Events Management
+### Events Management
 - Create and manage company events  
 - RSVP tracking for employees  
 - Upcoming and past event visibility  
 
-### 🛍 Perks Marketplace
+### Perks Marketplace
 - Manage employee benefits and vendor-based perks  
 - Categorized perks with easy access for employees  
 
-### 💰 Budget Management
+### Budget Management
 - Annual budget allocation per organization  
 - Real-time tracking of spending and remaining budget  
 - Breakdown by categories and usage trends  
 
-### 👥 Employee Directory
+### Employee Directory
 - Centralized employee management  
 - Grouping by departments, roles, or custom segments  
 
@@ -61,12 +61,12 @@ The platform enables organizations to manage employee engagement, benefits, even
 
 ## 🧩 Platform Components
 
-### 🖥 Dashboard (HR / Admin)
+### Dashboard (HR / Admin)
 - Manage employees, budgets, perks, and events  
 - Monitor engagement and usage metrics  
 - Perform operational actions (send gifts, create events, etc.)  
 
-### 📱 Mobile App (Employees)
+### Mobile App (Employees)
 - View and redeem perks  
 - Receive gifts and updates  
 - Participate in events  
